@@ -1,4 +1,3 @@
-# assignment2sdp
 # Calculator with Decorator Pattern
 
 ## Introduction
